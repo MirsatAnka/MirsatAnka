@@ -7,7 +7,7 @@
       <h1>Hello, I'm Mirsat Anka 👋</h1>
       <h3>Computer Engineering Student | Backend Developer & Network Engineering Enthusiast</h3>
       <p>
-        I am a third-year Computer Engineering student at Düzce University, dedicated to developing robust backend architectures, optimizing relational database schemas, and engineering scalable network routing systems.
+        I am a fourth-year (senior) Computer Engineering student at Düzce University, dedicated to developing robust backend architectures, optimizing relational database schemas, and engineering scalable network routing systems.
       </p>
       <p>
         <a href="mailto:mirsaton2@gmail.com"><img src="https://img.shields.io/badge/Email-mirsaton2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** 3rd-year Computer Engineering student at **Düzce University**.
+* 🎓 **Education:** 4th-year (Senior) Computer Engineering student at **Düzce University**.
 * ⚡ **Core Focus:** Backend Development, Database Optimization (SQL), and Core Network Engineering Routing Protocols.
 * 🎯 **Professional Goal:** Building high-performance, maintainable software architectures and solving complex real-world engineering challenges.
 
