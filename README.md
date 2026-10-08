@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="220" align="center" valign="top">
-      <img src="profile.jpg" alt="Mirsat Anka" width="190" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
+      <img src="https://raw.githubusercontent.com/MirsatAnka/MirsatAnka/main/profile.jpg" alt="Mirsat Anka" width="190" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
     </td>
     <td valign="top">
       <h1>Hello, I'm Mirsat Anka 👋</h1>
